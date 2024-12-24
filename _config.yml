@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: Guillermo Yllera - Porfolio # the main title
 
-tagline: Técnico de Ciberseguridad Junior </br> Junior Cybersecurity Technician # it will display as the subtitle
+tagline: Técnico de Ciberseguridad Junior # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Portafolio de ciberseguridad con WriteUps de CTFs, informes técnicos, análisis de vulnerabilidades y reflexiones sobre seguridad informática. Aprende y descubre conmigo - Guillermo Yllera.
@@ -40,9 +40,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Cybermemillo # change to your Twitter homepage
     - https://github.com/Cybermemillo # change to your GitHub homepage
+    - https://www.linkedin.com/in/gillerav
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
