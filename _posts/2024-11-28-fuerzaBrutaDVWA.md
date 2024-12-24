@@ -2,7 +2,7 @@
 title: Write-Up de DVWA - Bruteforce (Fácil/Medio/Difícil)
 description: Write-up sobre el proceso de fuerza bruta para romper un login en Damn Vulnerable Web App.
 date: 2024-11-28 20:18
-categories: [DWVA, WripteUp]
+categories: [WriteUp, DWVA]
 tags: [DVWA, Fuerza bruta, WriteUp, Español, Spanish, Red Team]
 ---
 
