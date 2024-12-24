@@ -2,7 +2,7 @@
 title: Creación de contraseñas seguras y uso de Gestores de contraseñas
 description: Una guía para proteger tus cuentas con una contraseña robusta y no olvidarte de ellas en el intento.
 date: 2024-12-24 10:15
-categories: [Contraseñas, Teoría]
+categories: [Guía, Contraseñas]
 tags: [Teoría, Contraseñas, Español, Blue Team]
 ---
 
