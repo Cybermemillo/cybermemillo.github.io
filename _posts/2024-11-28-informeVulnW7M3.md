@@ -2,7 +2,7 @@
 title: Análisis de vulnerabilidades Windowsplotable7 y Metasploitable3
 description: Un informe sobre el análisis de vulnerabilidades de Windowsplotable7 y Metasploitable3, se analizan 10 de las vulnerabilidades mas graves que estas maquinas contienen, y se ofrecen soluciones a estas.
 date: 2024-11-28 20:07
-categories: [Informes, Informe Vulnerabilidades]
+categories: [Informes, Vulnerabilidades]
 tags: [Metaesplotable3, Windowsplotable7, Analisis de Vulnerabilidades, Informes, Blue Team]
 ---
 
