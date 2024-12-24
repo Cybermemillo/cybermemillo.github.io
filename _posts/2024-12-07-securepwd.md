@@ -56,8 +56,7 @@ Tabla resumen de la implementación de contraseñas seguras
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
-> **Puedes comprobar la fortaleza de tu contraseña:** Gracias a esta aplicación de Nordpass, podemos comprobar como de fuerte es nuestra contraseña. </br>
-https://nordpass.com/es/secure-password/
+> **Puedes comprobar la fortaleza de tu contraseña:** Gracias a esta aplicación de Nordpass, podemos comprobar como de fuerte es nuestra contraseña. <https://nordpass.com/es/secure-password/>
 {: .prompt-info }
 
 <!-- markdownlint-restore -->
